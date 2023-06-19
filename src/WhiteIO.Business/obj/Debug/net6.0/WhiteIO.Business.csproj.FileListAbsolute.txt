@@ -1,0 +1,12 @@
+C:\Users\gugag\source\repos\MinhaAppMvcCompleta\src\WhiteIO.Business\bin\Debug\net6.0\WhiteIO.Business.deps.json
+C:\Users\gugag\source\repos\MinhaAppMvcCompleta\src\WhiteIO.Business\bin\Debug\net6.0\WhiteIO.Business.dll
+C:\Users\gugag\source\repos\MinhaAppMvcCompleta\src\WhiteIO.Business\bin\Debug\net6.0\WhiteIO.Business.pdb
+C:\Users\gugag\source\repos\MinhaAppMvcCompleta\src\WhiteIO.Business\obj\Debug\net6.0\WhiteIO.Business.csproj.AssemblyReference.cache
+C:\Users\gugag\source\repos\MinhaAppMvcCompleta\src\WhiteIO.Business\obj\Debug\net6.0\WhiteIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gugag\source\repos\MinhaAppMvcCompleta\src\WhiteIO.Business\obj\Debug\net6.0\WhiteIO.Business.AssemblyInfoInputs.cache
+C:\Users\gugag\source\repos\MinhaAppMvcCompleta\src\WhiteIO.Business\obj\Debug\net6.0\WhiteIO.Business.AssemblyInfo.cs
+C:\Users\gugag\source\repos\MinhaAppMvcCompleta\src\WhiteIO.Business\obj\Debug\net6.0\WhiteIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\gugag\source\repos\MinhaAppMvcCompleta\src\WhiteIO.Business\obj\Debug\net6.0\WhiteIO.Business.dll
+C:\Users\gugag\source\repos\MinhaAppMvcCompleta\src\WhiteIO.Business\obj\Debug\net6.0\refint\WhiteIO.Business.dll
+C:\Users\gugag\source\repos\MinhaAppMvcCompleta\src\WhiteIO.Business\obj\Debug\net6.0\WhiteIO.Business.pdb
+C:\Users\gugag\source\repos\MinhaAppMvcCompleta\src\WhiteIO.Business\obj\Debug\net6.0\ref\WhiteIO.Business.dll
